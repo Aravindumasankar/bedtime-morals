@@ -8,8 +8,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 body {
 	--color-text: rgb(23, 235, 160);
     --color-bg: #000000;
-    --color-link: rgb(23, 235, 160);
-    --color-link-hover:rgb(23, 235, 160);
+    --color-link: rgb(23, 235, 160) ;
+    --color-link-hover: #08DFF1 ;
     --color-info: #58233e;
     --grid-item-bg: #f1f1f1;
     --color-close: #ec1752;
@@ -297,7 +297,7 @@ main {
 
 .content__item-title {
 	position: relative;
-	font-size: 7vw;
+	font-size: 3vw;
 	line-height: 1;
 	text-align: center;
 	margin: 0;
@@ -339,7 +339,7 @@ main {
 	margin: 0;
 	padding: 0;
 	cursor: pointer;
-	color: var(--color-text);
+	color:#000000;
 }
 
 .content__close:focus {

@@ -1,8 +1,11 @@
 body {
     font-family: niveau-grotesk, sans-serif;
     background-image: url(../img/3.jpg);
+    --color-title: #9daebc;
+    --color-link: #758f89;
 }
 
 .content__title {
     font-size: 10vw;
 }
+
