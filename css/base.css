@@ -8,10 +8,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 body {
 	--color-text: rgb(23, 235, 160);
     --color-bg: #000000;
-    --color-link: rgb(23, 235, 160) ;
-    --color-link-hover: #000000;
+    --color-link: #efebf27b;
+    --color-link-hover:  rgb(23, 235, 160) ;
     --color-info: #58233e;
-    --grid-item-bg: #f1f1f1;
+    --grid-item-bg: #0d7171;
     --color-close: #ec1752;
 	font-family: Futura, "futura-pt", sans-serif;
 	min-height: 100vh;
@@ -340,7 +340,7 @@ main {
 	margin: 0;
 	padding: 0;
 	cursor: pointer;
-	color:#000000;
+	color:#ffffff;
 }
 
 .content__close:focus {
